@@ -1,6 +1,12 @@
 ## 💫 About Me
 
-<table>
+<table width="100%">
+<tr>
+
+<!-- LEFT: ABOUT ME CARD -->
+<td valign="top" width="55%">
+
+<table width="100%" cellpadding="8">
 <tr>
 <td colspan="2" align="center">
 🐾 ── This Human Is Being Watched By A Cat ── 🐾
@@ -11,12 +17,16 @@
 <td valign="top">
 Hello, I'm Fajri 😸<br>
 A human by day, a developer by night 🌙<br><br>
+
 I code. I debug. I Google.<br>
 Sometimes in that order.
 </td>
 
-<td width="180" align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25xYWMyaXZhbmx5eHNnbXgyZGh5MHdzZmF0aWFtbmhrY2JodzZ4OCZlcD12MV9pbnRlcm5hbY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" />
+<td width="160" align="center">
+<img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25xYWMyaXZhbmx5eHNnbXgyZGh5MHdzZmF0aWFtbmhrY2JodzZ4OCZlcD12MV9pbnRlcm5hbY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"
+  width="140"
+/>
 </td>
 </tr>
 
@@ -24,6 +34,28 @@ Sometimes in that order.
 <td colspan="2" align="center">
 🐱 Warning: May randomly refactor code 🐱
 </td>
+</tr>
+</table>
+
+</td>
+
+<!-- RIGHT: SNAKE -->
+<td valign="top" align="center" width="50%">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="650"
+  />
+   <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="650"
+  />
+   <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="650"
+  />
+</td>
+
+
 </tr>
 </table>
 
